@@ -16,5 +16,5 @@ end
 #hashie gem without specifying a version
 #sinatra gem with the specific version 1.4.4
 #octokit gem specifying version 2.0 with a twiddle-wakka
-#awesome_printgem specifying a remote git repository (use github)
+#awesome_print gem specifying a remote git repository (use github)
 #rspec gem in the test group using block syntax
