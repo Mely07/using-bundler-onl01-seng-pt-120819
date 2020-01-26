@@ -6,7 +6,7 @@ gem "octokit", '~> 2.0'
 gem 'awesome_printgem', git: 'awesome_print/gemfiles/mongoid_4.0.gemfile'
  
 group :development do
-gem "pry"
+  gem "pry"
 end
 
 group :test do
