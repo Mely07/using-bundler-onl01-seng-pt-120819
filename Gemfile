@@ -3,7 +3,7 @@ gem "rspec"
 gem "sinatra", '~> 1.4.4'
 gem "hashie"
 gem "octokit", '~> 2.0'
-gem 'awesome_printgem', git: 'http://github.com/michaeldv/awesome_print'
+gem 'awesome_printgem', git: 'awesome_print/gemfiles/mongoid_4.0.gemfile'
  
 group :development do
 gem "pry"
